@@ -2,7 +2,7 @@
 
 Name: Daniel Duran
 Course: CEN 3024C Software Development 1
-CRN: 33022
+CRN: 15339
 
 This Project simulates three slot machines that follow specific rules:
 
